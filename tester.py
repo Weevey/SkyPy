@@ -5,3 +5,5 @@ cost = 5
 total = (quantity * cost)
 
 print("That will be ", total, " pounds please!")
+
+// Why insint working!
